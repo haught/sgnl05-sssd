@@ -130,6 +130,7 @@ currently Puppet versions 5 and 6.
 * EL 6
 * EL 7
 * EL 8
+* EL 9
 * Fedora 30
 * Fedora 31
 * Fedora 32
